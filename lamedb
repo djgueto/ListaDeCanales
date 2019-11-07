@@ -606,11 +606,23 @@ transponders
 eeee0000:03f0:22d4
 	t 554000000:0:5:5:3:2:4:4:2:0:0:0
 /
+eeee0000:03f0:22d4
+	t 554000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0065:22d4
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
 eeee0000:0065:22d4
 	t 658000000:0:5:5:3:2:4:4:2:0:0:0
 /
 eeee0000:0010:22d4
 	t 578000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0010:22d4
+	t 578000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000f:22d4
+	t 522000000:0:5:5:3:2:4:4:2:0:0:0
 /
 eeee0000:000f:22d4
 	t 522000000:0:5:5:3:2:4:4:2:0:0:0
@@ -624,8 +636,59 @@ eeee0000:9c40:22d4
 eeee0000:0011:22d4
 	t 538000000:0:5:5:3:2:4:4:2:0:0:0
 /
+eeee0000:0010:22d4
+	t 578000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0065:22d4
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
 eeee0000:000e:22d4
 	t 682000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000e:22d4
+	t 682000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0012:22d4
+	t 490000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0012:22d4
+	t 490000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03ef:22d4
+	t 570000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000f:22d4
+	t 522000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000f:22d4
+	t 522000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000e:22d4
+	t 682000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0065:22d4
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0065:22d4
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0065:22d4
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03ef:22d4
+	t 570000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
 /
 eeee0000:03ef:22d4
 	t 570000000:0:5:5:3:2:4:4:2:0:0:0
@@ -633,8 +696,143 @@ eeee0000:03ef:22d4
 eeee0000:4e48:22d4
 	t 514000000:0:5:5:3:2:4:4:2:0:0:0
 /
+eeee0000:4e48:22d4
+	t 514000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:4e48:22d4
+	t 514000000:0:5:5:3:2:4:4:2:0:0:0
+/
 eeee0000:4e6e:22d4
 	t 594000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000f:22d4
+	t 522000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000f:22d4
+	t 522000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0011:22d4
+	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0010:22d4
+	t 578000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0010:22d4
+	t 578000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0010:22d4
+	t 578000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0011:22d4
+	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0011:22d4
+	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000e:22d4
+	t 682000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03f0:22d4
+	t 554000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03f0:22d4
+	t 554000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03f0:22d4
+	t 554000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03f0:22d4
+	t 554000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000e:22d4
+	t 682000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000e:22d4
+	t 682000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000e:22d4
+	t 682000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000e:22d4
+	t 682000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000e:22d4
+	t 682000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0065:22d4
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0065:22d4
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0065:22d4
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0065:22d4
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03ef:22d4
+	t 570000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03ef:22d4
+	t 570000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:4e48:22d4
+	t 514000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:4e48:22d4
+	t 514000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:4e48:22d4
+	t 514000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:4e6e:22d4
+	t 594000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0011:22d4
+	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0011:22d4
+	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0011:22d4
+	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0011:22d4
+	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03f0:22d4
+	t 554000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03f0:22d4
+	t 554000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03f0:22d4
+	t 554000000:0:5:5:3:2:4:4:2:0:0:0
 /
 end
 services
@@ -9863,6 +10061,129 @@ p:RTVE,c:00012d,c:03012d,c:050001,f:40
 01f2:eeee0000:03f0:22d4:25:0
 La 2 HD
 p:RTVE,f:40
+032d:eeee0000:0065:22d4:25:0
+TV3HD
+p:TVC,f:40
+0326:eeee0000:0065:22d4:1:0
+Super3/33
+p:TVC,c:000079,c:01007a,c:020081,c:030079,f:40
+00bf:eeee0000:0010:22d4:25:0
+Cuatro HD
+p:MEDIASET,c:0006a5,c:0106a7,c:0204b2,c:0306a5,c:050001,f:40
+00be:eeee0000:0010:22d4:25:0
+Telecinco HD
+p:MEDIASET,c:0005dd,c:0105df,c:02044e,c:0305dd,c:050001,f:40
+0097:eeee0000:000f:22d4:25:0
+laSexta HD
+p:ATRESMEDIA,c:00012d,c:020192,c:03012d,c:050001,f:40
+0095:eeee0000:000f:22d4:25:0
+antena3 HD
+p:ATRESMEDIA,c:000065,c:0200ca,c:030065,c:050001,f:40
+0065:eeee0000:0012:22d4:25:0
+atreseries HD
+p:A3MEDIA,c:000065,c:020066,c:030065,c:050001,f:40
+a033:eeee0000:9c40:22d4:1:0
+TEN
+p:Secuoya,c:0001f5,c:0101f6,c:0301f5,f:40
+009b:eeee0000:0011:22d4:1:0
+mega
+p:A3MEDIA,c:000515,c:010517,c:020516,c:030515,f:40
+00bc:eeee0000:0010:22d4:1:0
+FDF
+p:MEDIASET,c:000515,c:010517,c:020516,c:030515,f:40
+9c43:eeee0000:9c40:22d4:25:0
+tdp HD
+p:RTVE,c:000fa1,c:030fa1,c:050001,f:40
+0327:eeee0000:0065:22d4:1:0
+3/24
+p:TVC,c:000083,c:010084,c:020081,c:030083,f:40
+0115:eeee0000:000e:22d4:1:0
+DMAX
+p:VEO,c:00012d,c:01012f,c:020137,c:03012d,f:40
+9c41:eeee0000:9c40:22d4:25:0
+Clan HD
+p:RTVE,f:40
+0116:eeee0000:000e:22d4:1:0
+GOL
+p:Mediapro,c:000191,c:010193,c:030191,f:40
+0066:eeee0000:0012:22d4:25:0
+BeMad tv HD
+p:MEDIASET,f:40
+0067:eeee0000:0012:22d4:25:0
+Realmadrid TV HD
+p:Realmadrid,f:40
+2941:eeee0000:03ef:22d4:1:0
+Barça TV
+p:Barca TV,f:40
+0099:eeee0000:000f:22d4:1:0
+neox
+p:ATRESMEDIA,c:0001f5,c:0101f7,c:020192,c:0301f5,f:40
+009a:eeee0000:000f:22d4:1:0
+nova
+p:ATRESMEDIA,c:000259,c:01025b,c:0200ca,c:030259,f:40
+00c9:eeee0000:000e:22d4:1:0
+Disney Channel
+p:Disney Channel,c:000065,c:010067,c:020066,c:030065,f:40
+0325:eeee0000:0065:22d4:1:0
+TV3
+p:TVC,f:40
+0328:eeee0000:0065:22d4:1:0
+Esport3
+p:TVC,c:00008d,c:01008e,c:020081,c:03008d,f:40
+a029:eeee0000:9c40:22d4:1:0
+DKISS
+p:DKISS,c:0003e9,c:0103ea,c:0203ed,c:0303e9,f:40
+032f:eeee0000:0065:22d4:1:0
+IB3 Global
+p:TVC,f:40
+2940:eeee0000:03ef:22d4:1:0
+8TV
+p:ECD,f:40
+9c42:eeee0000:9c40:22d4:1:0
+tdp
+p:RTVE,f:40
+2943:eeee0000:03ef:22d4:1:0
+RAC105
+p:EDC,f:40
+7850:eeee0000:4e48:22d4:1:0
+betevé
+p:betevé,f:40
+7855:eeee0000:4e48:22d4:1:0
+TV L'Hospitalet
+p:TV Hospitalet,f:40
+785a:eeee0000:4e48:22d4:1:0
+teleb-Badalona
+p:TV Badalona,f:40
+7b5c:eeee0000:4e6e:22d4:1:0
+ETV Llobregat Televisio
+p:ETV Llobregat Televisio,f:40
+0096:eeee0000:000f:22d4:1:0
+antena3
+p:ATRESMEDIA,f:40
+0098:eeee0000:000f:22d4:1:0
+laSexta
+p:ATRESMEDIA,f:40
+00aa:eeee0000:0011:22d4:1:0
+TRECE
+p:TRECE,f:40
+00ba:eeee0000:0010:22d4:1:0
+Telecinco
+p:MEDIASET,f:40
+00bb:eeee0000:0010:22d4:1:0
+Cuatro
+p:MEDIASET,f:40
+00bd:eeee0000:0010:22d4:1:0
+Divinity
+p:MEDIASET,f:40
+00c0:eeee0000:0011:22d4:1:0
+Energy
+p:MEDIASET,c:00044d,c:01044f,c:02044e,c:03044d,f:40
+00c1:eeee0000:0011:22d4:1:0
+Boing
+p:MEDIASET,c:0004b1,c:0104b3,c:0204b2,c:0304b1,f:40
+00ca:eeee0000:000e:22d4:1:0
+PARAMOUNT NETWORK
+p:PARAMOUNT NETWORK,c:0005dd,c:0105df,c:0205de,c:0305dd,f:40
 01ea:eeee0000:03f0:22d4:1:0
 La 1
 p:RTVE,f:40
@@ -9875,165 +10196,6 @@ p:RTVE,c:0003e9,c:0103eb,c:0203ea,c:0303e9,f:40
 01ed:eeee0000:03f0:22d4:1:0
 Clan
 p:RTVE,c:0005dd,c:0105df,c:0205de,c:0305dd,f:40
-01ef:eeee0000:03f0:22d4:2:0
-RNE Cataluña
-p:RTVE,f:40
-01f0:eeee0000:03f0:22d4:2:0
-Radio 5 RNE
-p:RTVE,f:40
-01f1:eeee0000:03f0:22d4:2:0
-Ràdio 4 RNE
-p:RTVE,f:40
-032d:eeee0000:0065:22d4:25:0
-TV3HD
-p:TVC,f:40
-0326:eeee0000:0065:22d4:1:0
-Super3/33
-p:TVC,c:000079,c:01007a,c:020081,c:030079,f:40
-0327:eeee0000:0065:22d4:1:0
-3/24
-p:TVC,c:000083,c:010084,c:020081,c:030083,f:40
-0325:eeee0000:0065:22d4:1:0
-TV3
-p:TVC,f:40
-0328:eeee0000:0065:22d4:1:0
-Esport3
-p:TVC,c:00008d,c:01008e,c:020081,c:03008d,f:40
-032f:eeee0000:0065:22d4:1:0
-IB3 Global
-p:TVC,f:40
-0329:eeee0000:0065:22d4:2:0
-CatRadio
-p:TVC,f:40
-032a:eeee0000:0065:22d4:2:0
-CatInfo
-p:TVC,f:40
-032b:eeee0000:0065:22d4:2:0
-CatMusic
-p:TVC,f:40
-032c:eeee0000:0065:22d4:2:0
-iCat.cat
-p:TVC,f:40
-00bf:eeee0000:0010:22d4:25:0
-Cuatro HD
-p:MEDIASET,c:0006a5,c:0106a7,c:0204b2,c:0306a5,c:050001,f:40
-00be:eeee0000:0010:22d4:25:0
-Telecinco HD
-p:MEDIASET,c:0005dd,c:0105df,c:02044e,c:0305dd,c:050001,f:40
-00bc:eeee0000:0010:22d4:1:0
-FDF
-p:MEDIASET,c:000515,c:010517,c:020516,c:030515,f:40
-00ba:eeee0000:0010:22d4:1:0
-Telecinco
-p:MEDIASET,f:40
-00bb:eeee0000:0010:22d4:1:0
-Cuatro
-p:MEDIASET,f:40
-00bd:eeee0000:0010:22d4:1:0
-Divinity
-p:MEDIASET,f:40
-0097:eeee0000:000f:22d4:25:0
-laSexta HD
-p:ATRESMEDIA,c:00012d,c:020192,c:03012d,c:050001,f:40
-0095:eeee0000:000f:22d4:25:0
-antena3 HD
-p:ATRESMEDIA,c:000065,c:0200ca,c:030065,c:050001,f:40
-0099:eeee0000:000f:22d4:1:0
-neox
-p:ATRESMEDIA,c:0001f5,c:0101f7,c:020192,c:0301f5,f:40
-009a:eeee0000:000f:22d4:1:0
-nova
-p:ATRESMEDIA,c:000259,c:01025b,c:0200ca,c:030259,f:40
-0096:eeee0000:000f:22d4:1:0
-antena3
-p:ATRESMEDIA,f:40
-0098:eeee0000:000f:22d4:1:0
-laSexta
-p:ATRESMEDIA,f:40
-0065:eeee0000:0012:22d4:25:0
-atreseries HD
-p:A3MEDIA,c:000065,c:020066,c:030065,c:050001,f:40
-0066:eeee0000:0012:22d4:25:0
-BeMad tv HD
-p:MEDIASET,f:40
-0067:eeee0000:0012:22d4:25:0
-Realmadrid TV HD
-p:Realmadrid,f:40
-a033:eeee0000:9c40:22d4:1:0
-TEN
-p:Secuoya,c:0001f5,c:0101f6,c:0301f5,f:40
-9c43:eeee0000:9c40:22d4:25:0
-tdp HD
-p:RTVE,c:000fa1,c:030fa1,c:050001,f:40
-9c41:eeee0000:9c40:22d4:25:0
-Clan HD
-p:RTVE,f:40
-a029:eeee0000:9c40:22d4:1:0
-DKISS
-p:DKISS,c:0003e9,c:0103ea,c:0203ed,c:0303e9,f:40
-9c42:eeee0000:9c40:22d4:1:0
-tdp
-p:RTVE,f:40
-a02a:eeee0000:9c40:22d4:2:0
-Kiss FM
-p:Kiss FM,f:40
-a02b:eeee0000:9c40:22d4:2:0
-HIT FM
-p:HIT FM,f:40
-a034:eeee0000:9c40:22d4:2:0
-SER
-p:SER,f:40
-a035:eeee0000:9c40:22d4:2:0
-LOS40
-p:SER,f:40
-a036:eeee0000:9c40:22d4:2:0
-DIAL
-p:SER,f:40
-9c45:eeee0000:9c40:22d4:2:0
-Radio Clasica HQ RNE
-p:RTVE,f:40
-9c46:eeee0000:9c40:22d4:2:0
-Radio3 HQ RNE
-p:RTVE,f:40
-9c47:eeee0000:9c40:22d4:2:0
-Radio Exterior RNE
-p:RTVE,f:40
-009b:eeee0000:0011:22d4:1:0
-mega
-p:A3MEDIA,c:000515,c:010517,c:020516,c:030515,f:40
-00aa:eeee0000:0011:22d4:1:0
-TRECE
-p:TRECE,f:40
-00c0:eeee0000:0011:22d4:1:0
-Energy
-p:MEDIASET,c:00044d,c:01044f,c:02044e,c:03044d,f:40
-00c1:eeee0000:0011:22d4:1:0
-Boing
-p:MEDIASET,c:0004b1,c:0104b3,c:0204b2,c:0304b1,f:40
-009c:eeee0000:0011:22d4:2:0
-ONDA CERO
-p:A3MEDIA,f:40
-009d:eeee0000:0011:22d4:2:0
-EUROPA FM
-p:A3MEDIA,f:40
-009e:eeee0000:0011:22d4:2:0
-MELODIA FM
-p:A3MEDIA,f:40
-00ab:eeee0000:0011:22d4:2:0
-COPE
-p:COPE,f:40
-0115:eeee0000:000e:22d4:1:0
-DMAX
-p:VEO,c:00012d,c:01012f,c:020137,c:03012d,f:40
-0116:eeee0000:000e:22d4:1:0
-GOL
-p:Mediapro,c:000191,c:010193,c:030191,f:40
-00c9:eeee0000:000e:22d4:1:0
-Disney Channel
-p:Disney Channel,c:000065,c:010067,c:020066,c:030065,f:40
-00ca:eeee0000:000e:22d4:1:0
-PARAMOUNT NETWORK
-p:PARAMOUNT NETWORK,c:0005dd,c:0105df,c:0205de,c:0305dd,f:40
 0118:eeee0000:000e:22d4:2:0
 RADIO MARCA
 p:RADIO MARCA,f:40
@@ -10049,30 +10211,48 @@ p:RADIO MARIA,f:40
 011c:eeee0000:000e:22d4:2:0
 esRadio
 p:esRadio,f:40
-2941:eeee0000:03ef:22d4:1:0
-Barça TV
-p:Barca TV,f:40
-2940:eeee0000:03ef:22d4:1:0
-8TV
-p:ECD,f:40
-2943:eeee0000:03ef:22d4:1:0
-RAC105
-p:EDC,f:40
+0329:eeee0000:0065:22d4:2:0
+CatRadio
+p:TVC,f:40
+032a:eeee0000:0065:22d4:2:0
+CatInfo
+p:TVC,f:40
+a02a:eeee0000:9c40:22d4:2:0
+Kiss FM
+p:Kiss FM,f:40
+032b:eeee0000:0065:22d4:2:0
+CatMusic
+p:TVC,f:40
+a02b:eeee0000:9c40:22d4:2:0
+HIT FM
+p:HIT FM,f:40
+032c:eeee0000:0065:22d4:2:0
+iCat.cat
+p:TVC,f:40
+a034:eeee0000:9c40:22d4:2:0
+SER
+p:SER,f:40
+a035:eeee0000:9c40:22d4:2:0
+LOS40
+p:SER,f:40
+a036:eeee0000:9c40:22d4:2:0
+DIAL
+p:SER,f:40
 2944:eeee0000:03ef:22d4:2:0
 RAC1
 p:RAC,f:40
 2945:eeee0000:03ef:22d4:2:0
 RAC105
 p:RAC,f:40
-7850:eeee0000:4e48:22d4:1:0
-betevé
-p:betevé,f:40
-7855:eeee0000:4e48:22d4:1:0
-TV L'Hospitalet
-p:TV Hospitalet,f:40
-785a:eeee0000:4e48:22d4:1:0
-teleb-Badalona
-p:TV Badalona,f:40
+9c45:eeee0000:9c40:22d4:2:0
+Radio Clasica HQ RNE
+p:RTVE,f:40
+9c46:eeee0000:9c40:22d4:2:0
+Radio3 HQ RNE
+p:RTVE,f:40
+9c47:eeee0000:9c40:22d4:2:0
+Radio Exterior RNE
+p:RTVE,f:40
 7851:eeee0000:4e48:22d4:2:0
 betevé 91.0
 p:betevé 91.0,f:40
@@ -10082,11 +10262,29 @@ p:Radio Hospitalet,f:40
 785b:eeee0000:4e48:22d4:2:0
 Ràdio Ciutat Badalona
 p:Radio Ciutat de Badalona,f:40
-7b5c:eeee0000:4e6e:22d4:1:0
-ETV Llobregat Televisio
-p:ETV Llobregat Televisio,f:40
 7775:eeee0000:4e6e:22d4:2:0
 e-Radio
 p:e-Radio,f:40
+009c:eeee0000:0011:22d4:2:0
+ONDA CERO
+p:A3MEDIA,f:40
+009d:eeee0000:0011:22d4:2:0
+EUROPA FM
+p:A3MEDIA,f:40
+009e:eeee0000:0011:22d4:2:0
+MELODIA FM
+p:A3MEDIA,f:40
+00ab:eeee0000:0011:22d4:2:0
+COPE
+p:COPE,f:40
+01ef:eeee0000:03f0:22d4:2:0
+RNE Cataluña
+p:RTVE,f:40
+01f0:eeee0000:03f0:22d4:2:0
+Radio 5 RNE
+p:RTVE,f:40
+01f1:eeee0000:03f0:22d4:2:0
+Ràdio 4 RNE
+p:RTVE,f:40
 end
 Editor:DreamSet 2.4.12 - http://www.dreamset-editor.com
