@@ -1,4 +1,1 @@
 #NAME User - Bouquets (Radio)
-#SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "bouquets.radio" ORDER BY bouquet
-FROM BOUQUET "bouquets.radio" ORDER BY bouquet
-#DESCRIPTION FROM BOUQUET "bouquets.radio" ORDER BY bouquet
