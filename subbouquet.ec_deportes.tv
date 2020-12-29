@@ -1,6 +1,0 @@
-#NAME Deportes
-#SERVICE 4097:0:1:7ABC:1EA1:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=805&deviceId=5f1ac118dd7e6000077e31af&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:IGN
-#DESCRIPTION IGN
-#SERVICE 4097:0:1:9C2:281F:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=800&deviceId=5f1ac8588734f8000823b7de&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:Pluto TV Action Sports
-#DESCRIPTION Pluto TV Action Sports
-#IPTV fnuuqwaengm3kex0vyvzte
