@@ -1,3 +1,4 @@
 #NAME User - Bouquets (TV)
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe37.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.tdt__solo_decos_con_tdt_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ec_pluto_tv.tv" ORDER BY bouquet

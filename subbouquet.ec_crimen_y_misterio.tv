@@ -1,0 +1,6 @@
+#NAME Crimen y misterio
+#SERVICE 4097:0:1:C48E:D6BA:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=600&deviceId=5f1acba0d1f6340007db8843&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:Los nuevos detectives
+#DESCRIPTION Los nuevos detectives
+#SERVICE 4097:0:1:3A92:6293:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=605&deviceId=5f1acbed25948a0007ffbe65&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:Los archivos del FBI
+#DESCRIPTION Los archivos del FBI
+#IPTV fnuuqwaengm2t40kviq0z1

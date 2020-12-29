@@ -1,0 +1,6 @@
+#NAME Entretenimiento
+#SERVICE 4097:0:1:47F1:A2DD:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=405&deviceId=5f1acdfda84c970007e750b5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:Pluto TV Mundo Real
+#DESCRIPTION Pluto TV Mundo Real
+#SERVICE 4097:0:1:C495:4904:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=400&deviceId=5f280149cec6be00072ab1fc&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:El Conquistador del Fin
+#DESCRIPTION El Conquistador del Fin
+#IPTV fnuuqwaengmrmzsjtorqzk

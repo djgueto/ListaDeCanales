@@ -1,0 +1,10 @@
+#NAME Nuevo en Pluto TV
+#SERVICE 4097:0:1:A4D9:2A22:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=55&deviceId=5f1aca0b4e448e00075e7c5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:Bob Esponja
+#DESCRIPTION Bob Esponja
+#SERVICE 4097:0:1:6EBE:2274:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984ba0c54853000797a5e6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=59&deviceId=5f984ba0c54853000797a5e6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:Kids Navidad
+#DESCRIPTION Kids Navidad
+#SERVICE 4097:0:1:E409:92AA:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5f984c1dc54853000797a5e8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:Cine Latino
+#DESCRIPTION Cine Latino
+#SERVICE 4097:0:1:AB1E:2A3:EC:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=56&deviceId=5f98537a5a4341000733aefe&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=41.1167&deviceLon=1.2500&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false:MTV Embarazada a los 16
+#DESCRIPTION MTV Embarazada a los 16
+#IPTV fnuuqwaengmvmsdifelaak
