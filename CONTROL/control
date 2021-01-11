@@ -1,6 +1,0 @@
-Package: enigma2-plugin-settings-jungle.rafatv
-Version: 08.01.2021
-Architecture: all
-Maintainer: jungle-team
-Depends: enigma2-plugin-systemplugins-serviceapp
-Description: Lista canales Astra 19.2 rafts
