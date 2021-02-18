@@ -1,4 +1,4 @@
-#NAME Movistar+ 21 Enero
+#NAME Movistar+ 19 Febrero
 #SERVICE 1:0:1:759c:422:1:c00000:0:0:0:
 #SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Autonomicos ----------
@@ -161,6 +161,8 @@
 #SERVICE 1:0:1:7602:408:1:c00000:0:0:0:
 #SERVICE 1:64:6:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Niños ----------
+#SERVICE 1:0:19:750d:420:1:c00000:0:0:0:
+#SERVICE 1:0:1:77c7:40a:1:c00000:0:0:0:
 #SERVICE 1:0:19:788b:414:1:c00000:0:0:0:
 #SERVICE 1:0:1:76c3:40e:1:c00000:0:0:0:
 #SERVICE 1:0:1:7607:408:1:c00000:0:0:0:
