@@ -972,7 +972,7 @@ p:CANAL+,C:0000
 M+ ESTRENOS 2 HD
 p:Movistar+,f:1000
 74d5:00c00000:03f8:0001:25:0
-Gol Mundial HD
+SUPERCOPA HD
 p:Movistar+,C:0000,f:1000
 74d6:00c00000:03f8:0001:25:0
 LigaSmartBankHD
@@ -981,7 +981,7 @@ p:Movistar+,C:0000,f:1000
 Gol Mundial HD.
 p:Movistar+,C:0000,f:1000
 74db:00c00000:03f8:0001:25:0
-Gol Mundial 2 HD
+M+LCAMPEON3 HD
 p:Movistar+,c:0000a5,c:010068,c:0300a5,c:050001,C:1810,f:1000
 74dc:00c00000:03f8:0001:100:0
 11436V SID 0x74dc
