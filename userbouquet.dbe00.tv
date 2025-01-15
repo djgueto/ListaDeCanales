@@ -1,4 +1,4 @@
-#NAME Movistar+ 14 ENERO 2025
+#NAME Movistar + 16 ENERO 2025
 #SERVICE 1:0:1:759c:422:1:c00000:0:0:0:
 #SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Autonomicos ----------
@@ -58,6 +58,7 @@
 #SERVICE 1:0:1:76c8:40e:1:c00000:0:0:0:
 #SERVICE 1:0:1:7730:416:1:c00000:0:0:0:
 #SERVICE 1:0:1:77bc:40a:1:c00000:0:0:0:
+#SERVICE 1:0:1:76ce:40e:1:c00000:0:0:0:
 #SERVICE 1:0:1:7795:424:1:c00000:0:0:0:
 #SERVICE 1:64:3:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Deportes ----------
