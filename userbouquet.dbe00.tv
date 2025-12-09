@@ -30,11 +30,11 @@
 #DESCRIPTION Dmax
 #SERVICE 4097:0:1:77BC:40A:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1940027450:FDF
 #DESCRIPTION FDF
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2074729989:IB3 Global
-#DESCRIPTION IB3 Global
 #SERVICE 4097:0:1F:2BC5:40C:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1892896293:MEGA
 #DESCRIPTION MEGA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1636587784:SQUIRREL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2074729989:IB3 Global
+#DESCRIPTION IB3 Global
+#SERVICE 4097:0:1:618C5908:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1636587784:SQUIRREL
 #DESCRIPTION SQUIRREL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/830020320:SX3/33
 #DESCRIPTION SX3/33
