@@ -20,8 +20,6 @@
 #DESCRIPTION nova
 #SERVICE 4097:0:1:7587:412:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/560031344:neox
 #DESCRIPTION neox
-#SERVICE 4097:0:1:7888:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1250279181:Boing
-#DESCRIPTION Boing
 #SERVICE 4097:0:1:788b:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2076817846:Divinity
 #DESCRIPTION Divinity
 #SERVICE 4097:0:1:7889:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2041333856:Energy
@@ -162,6 +160,8 @@
 #SERVICE 4097:0:1:76c1:40e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/153462208:Clan HD
 #DESCRIPTION Clan HD
 #SERVICE 1:0:1:746b:3f0:1:c00000:0:0:0:
+#SERVICE 4097:0:1:7888:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1250279181:Boing
+#DESCRIPTION Boing
 #SERVICE 1:0:1:772e:416:1:c00000:0:0:0:
 #SERVICE 1:0:1:7697:41e:1:c00000:0:0:0:
 #SERVICE 1:0:1:778a:424:1:c00000:0:0:0:
