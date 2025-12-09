@@ -12,7 +12,7 @@
 #DESCRIPTION Telecinco HD
 #SERVICE 4097:0:1:772C:416:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/699941490:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 8193:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2121773179:A3series
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2121773179:A3series
 #DESCRIPTION A3series
 #SERVICE 4097:0:1:769E:41E:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2135808945:laSexta
 #DESCRIPTION laSexta
