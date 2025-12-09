@@ -26,8 +26,8 @@
 #DESCRIPTION Energy
 #SERVICE 4097:0:1F:2C2A:3F6:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2082270851:DKISS
 #DESCRIPTION DKISS
-#SERVICE 4097:0:19:7E4:449:1:C03037:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1576495013:DMAX
-#DESCRIPTION DMAX
+#SERVICE 4097:0:19:7E4:449:1:C03037:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1576495013:Dmax
+#DESCRIPTION Dmax
 #SERVICE 4097:0:1:77BC:40A:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1940027450:FDF
 #DESCRIPTION FDF
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2074729989:IB3 Global
@@ -169,5 +169,3 @@
 #SERVICE 4097:0:1:7738:416:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/516982041:24h HD
 #DESCRIPTION 24h HD
 #SERVICE 1:0:1:778B:424:1:C00000:0:0:0:
-#SERVICE 1:64:9:0:0:0:0:0:0:0::---------- IPTV ----------
-#DESCRIPTION ---------- IPTV ----------
