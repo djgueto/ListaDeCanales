@@ -2,24 +2,57 @@
 #SERVICE 1:0:1:759c:422:1:c00000:0:0:0:
 #SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Autonomicos ----------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/1688877.m3u8:La 1
-#DESCRIPTION La 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/1688885.m3u8:La 2
-#DESCRIPTION La 2
-#SERVICE 1:0:1:7792:424:1:c00000:0:0:0:
-#SERVICE 1:0:1:778c:424:1:c00000:0:0:0:
-#SERVICE 1:0:1:772c:416:1:c00000:0:0:0:
-#SERVICE 1:0:1:769e:41e:1:c00000:0:0:0:
-#SERVICE 1:0:1:7469:3f0:1:c00000:0:0:0:
-#SERVICE 1:0:1:7587:412:1:c00000:0:0:0:
-#SERVICE 1:0:1:7888:414:1:c00000:0:0:0:
-#SERVICE 1:0:1:788b:414:1:c00000:0:0:0:
-#SERVICE 1:0:1:7889:414:1:c00000:0:0:0:
+#SERVICE 4097:0:1:76c2:40e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/993692904:La 1 HD
+#DESCRIPTION La 1 HD
+#SERVICE 4097:0:1:7474:3f0:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1052571318:La 2 HD
+#DESCRIPTION La 2 HD
+#SERVICE 4097:0:1:7792:424:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1694381337:Cuatro HD
+#DESCRIPTION Cuatro HD
+#SERVICE 4097:0:1:778c:424:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/454034156:Telecinco HD
+#DESCRIPTION Telecinco HD
+#SERVICE 4097:0:1:772c:416:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/699941490:Antena 3
+#DESCRIPTION Antena 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2121773179:A3Series
+#DESCRIPTION A3Series
+#SERVICE 4097:0:1:769e:41e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2135808945:laSexta
+#DESCRIPTION laSexta
+#SERVICE 4097:0:1:7469:3f0:1:c0ac36:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/307289808:nova
+#DESCRIPTION nova
+#SERVICE 4097:0:1:7587:412:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/560031344:neox
+#DESCRIPTION neox
+#SERVICE 4097:0:1:7888:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1250279181:Boing
+#DESCRIPTION Boing
+#SERVICE 4097:0:1:788b:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2076817846:Divinity
+#DESCRIPTION Divinity
+#SERVICE 4097:0:1:7889:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2041333856:Energy
+#DESCRIPTION Energy
+#SERVICE 4097:0:1f:2c2a:3f6:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2082270851:DKISS
+#DESCRIPTION DKISS
+#SERVICE 4097:0:19:7e4:449:1:c03037:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1576495013:DMAX
+#DESCRIPTION DMAX
+#SERVICE 4097:0:1:77bc:40a:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1940027450:FDF
+#DESCRIPTION FDF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2074729989:IB3 Global
+#DESCRIPTION IB3 Global
+#SERVICE 4097:0:1f:2bc5:40c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1892896293:MEGA
+#DESCRIPTION MEGA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1636587784:SQUIRREL
+#DESCRIPTION SQUIRREL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/830020320:SX3/33
+#DESCRIPTION SX3/33
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/822669523:TEN
+#DESCRIPTION TEN
+#SERVICE 4097:0:1f:2c29:3f6:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1625758199:TRECE
+#DESCRIPTION TRECE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/491778719:TV3
+#DESCRIPTION TV3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/856731278:VEO 7
+#DESCRIPTION VEO 7
+#SERVICE 1:0:19:7a49:410:1:c00000:0:0:0:
 #SERVICE 1:0:1:7473:3f0:1:c00000:0:0:0:
 #SERVICE 1:0:1:7729:416:1:c00000:0:0:0:
 #SERVICE 4097:0:1:46:0:0:0:0:0:0:https%3a//canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8:CANAL EXTREMADURA
 #DESCRIPTION CANAL EXTREMADURA
-#SERVICE 1:0:19:7a49:410:1:c00000:0:0:0:
 #SERVICE 1:64:1:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Cine ----------
 #SERVICE 1:0:19:749a:41c:1:c00000:0:0:0:
@@ -39,18 +72,20 @@
 #SERVICE 1:0:1:76cf:40e:1:c00000:0:0:0:
 #SERVICE 1:0:1:7885:414:1:c00000:0:0:0:
 #SERVICE 1:0:1:77c1:40a:1:c0aae3:0:0:0:
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS:BBC DRAMA
+#SERVICE 4097:0:1:77c1:40a:1:c00000:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS:BBC DRAMA
 #DESCRIPTION BBC DRAMA
 #SERVICE 1:0:1:7696:41e:1:c00000:0:0:0:
 #SERVICE 1:0:1:76c7:40e:1:c00000:0:0:0:
-#SERVICE 1:0:1:7891:414:1:c00000:0:0:0:
+#SERVICE 4097:0:1:7891:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/141884144:BeMad tv HD
+#DESCRIPTION BeMad tv HD
 #SERVICE 1:64:2:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Entretenimiento ----------
 #SERVICE 1:0:19:750c:420:1:c00000:0:0:0:
 #SERVICE 1:0:1:7478:3f0:1:c00000:0:0:0:
 #SERVICE 1:0:19:78be:3ec:1:c00000:0:0:0:
 #SERVICE 1:0:1:7471:3f0:1:c00000:0:0:0:
-#SERVICE 1:0:1:756b:412:1:c00000:0:0:0:
+#SERVICE 4097:0:19:4284:446:1:c0affd:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1960308577:PARAMOUNT NETWORK
+#DESCRIPTION PARAMOUNT NETWORK
 #SERVICE 1:0:19:78b6:3ec:1:c00000:0:0:0:
 #SERVICE 1:0:1:76ca:40e:1:c00000:0:0:0:
 #SERVICE 1:0:19:78b5:3ec:1:c00000:0:0:0:
@@ -89,7 +124,12 @@
 #SERVICE 1:0:1:77d8:40a:1:c00000:0:0:0:
 #SERVICE 1:0:1:77c4:40a:1:c00000:0:0:0:
 #SERVICE 1:0:1:7829:428:1:c00000:0:0:0:
-#SERVICE 1:0:1:76cc:40e:1:c00000:0:0:0:
+#SERVICE 4097:0:1:76cc:40e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1658038440:tdp HD
+#DESCRIPTION tdp HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/966492140:Esport3
+#DESCRIPTION Esport3
+#SERVICE 4097:0:1f:2bcd:40c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2116931485:Realmadrid TV HD
+#DESCRIPTION Realmadrid TV HD
 #SERVICE 1:0:19:78c0:3ec:1:c00000:0:0:0:
 #SERVICE 1:0:19:7532:426:1:c00000:0:0:0:
 #SERVICE 1:0:1:77c2:40a:1:c00000:0:0:0:
@@ -119,15 +159,16 @@
 #SERVICE 1:64:6:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Niños ----------
 #SERVICE 1:0:1:77c7:40a:1:c00000:0:0:0:
-#SERVICE 1:0:1:76c1:40e:1:c00000:0:0:0:
+#SERVICE 4097:0:1:76c1:40e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/153462208:Clan HD
+#DESCRIPTION Clan HD
 #SERVICE 1:0:1:746b:3f0:1:c00000:0:0:0:
 #SERVICE 1:0:1:772e:416:1:c00000:0:0:0:
 #SERVICE 1:0:1:7697:41e:1:c00000:0:0:0:
 #SERVICE 1:0:1:778a:424:1:c00000:0:0:0:
 #SERVICE 1:64:7:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Noticias ----------
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ztnr.rtve.es/ztnr/1694255.m3u8:24h
-#DESCRIPTION 24h
+#SERVICE 4097:0:1:7738:416:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/516982041:24h HD
+#DESCRIPTION 24h HD
 #SERVICE 1:0:1:778b:424:1:c00000:0:0:0:
 #SERVICE 1:64:8:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- IPTV ----------
