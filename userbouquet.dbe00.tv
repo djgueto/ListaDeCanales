@@ -1,4 +1,4 @@
-#NAME Movistar + 14 NOVIEMBRE 2025
+#NAME Movistar+ 12 DICIEMBRE 2025
 #SERVICE 1:0:1:759C:422:1:C00000:0:0:0:
 #SERVICE 1:64:1:0:0:0:0:0:0:0::---------- Autonomicos ----------
 #DESCRIPTION ---------- Autonomicos ----------
@@ -12,7 +12,7 @@
 #DESCRIPTION Telecinco HD
 #SERVICE 4097:0:1:772C:416:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/699941490:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 4097:0:3:309:F:23:3490:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2121773179:A3series
+#SERVICE 4097:0:19:65:12:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2121773179:A3series
 #DESCRIPTION A3series
 #SERVICE 4097:0:1:769E:41E:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2135808945:laSexta
 #DESCRIPTION laSexta
@@ -26,30 +26,30 @@
 #DESCRIPTION Energy
 #SERVICE 4097:0:1F:2C2A:3F6:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2082270851:DKISS
 #DESCRIPTION DKISS
-#SERVICE 4097:0:19:7E4:449:1:C03037:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1576495013:Dmax
+#SERVICE 4097:0:19:115:E:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1576495013:Dmax
 #DESCRIPTION Dmax
-#SERVICE 4097:0:1:77BC:40A:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1940027450:FDF
+#SERVICE 4097:0:19:BC:10:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1940027450:FDF
 #DESCRIPTION FDF
-#SERVICE 4097:0:1F:2BC5:40C:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1892896293:MEGA
+#SERVICE 4097:0:19:9B:11:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1892896293:MEGA
 #DESCRIPTION MEGA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2074729989:IB3 Global
 #DESCRIPTION IB3 Global
-#SERVICE 4097:0:1:618C5908:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1636587784:SQUIRREL
+#SERVICE 4097:0:1:5908:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1636587784:SQUIRREL
 #DESCRIPTION SQUIRREL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/830020320:SX3/33
+#SERVICE 4097:0:19:326:65:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/830020320:SX3/33
 #DESCRIPTION SX3/33
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/822669523:TEN
+#SERVICE 4097:0:19:68:12:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/822669523:TEN
 #DESCRIPTION TEN
-#SERVICE 4097:0:1F:2C29:3F6:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1625758199:TRECE
+#SERVICE 4097:0:19:AA:11:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1625758199:TRECE
 #DESCRIPTION TRECE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/491778719:TV3
+#SERVICE 4097:0:19:32D:65:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/491778719:TV3
 #DESCRIPTION TV3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/856731278:VEO 7
+#SERVICE 4097:0:19:7B5C:4E6E:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/856731278:VEO 7
 #DESCRIPTION VEO 7
 #SERVICE 1:0:19:7A49:410:1:C00000:0:0:0:
 #SERVICE 1:0:1:7473:3F0:1:C00000:0:0:0:
 #SERVICE 1:0:1:7729:416:1:C00000:0:0:0:
-#SERVICE 4097:0:1:46:0:0:0:0:0:0:https%3a//canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8:CANAL EXTREMADURA
+#SERVICE 4097:0:19:7864:4E48:22D4:EEEE0000:0:0:0:https%3a//canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8:CANAL EXTREMADURA
 #DESCRIPTION CANAL EXTREMADURA
 #SERVICE 1:64:2:0:0:0:0:0:0:0::---------- Cine ----------
 #DESCRIPTION ---------- Cine ----------
@@ -68,6 +68,7 @@
 #SERVICE 1:0:1:7736:416:1:C00000:0:0:0:
 #SERVICE 1:0:19:7533:426:1:C00000:0:0:0:
 #SERVICE 1:0:1:76CF:40E:1:C00000:0:0:0:
+#SERVICE 1:0:1:757F:412:1:C0AB59:0:0:0:
 #SERVICE 1:0:1:7885:414:1:C00000:0:0:0:
 #SERVICE 1:0:1:77C1:40A:1:C0AAE3:0:0:0:
 #SERVICE 4097:0:1:77C1:40A:1:C00000:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS:BBC DRAMA
@@ -82,7 +83,7 @@
 #SERVICE 1:0:1:7478:3F0:1:C00000:0:0:0:
 #SERVICE 1:0:19:78BE:3EC:1:C00000:0:0:0:
 #SERVICE 1:0:1:7471:3F0:1:C00000:0:0:0:
-#SERVICE 4097:0:19:4284:446:1:C0AFFD:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1960308577:PARAMOUNT NETWORK
+#SERVICE 4097:0:19:CA:E:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1960308577:PARAMOUNT NETWORK
 #DESCRIPTION PARAMOUNT NETWORK
 #SERVICE 1:0:19:78B6:3EC:1:C00000:0:0:0:
 #SERVICE 1:0:1:76CA:40E:1:C00000:0:0:0:
@@ -121,6 +122,19 @@
 #SERVICE 1:0:1:77D8:40A:1:C00000:0:0:0:
 #SERVICE 1:0:1:77C4:40A:1:C00000:0:0:0:
 #SERVICE 1:0:1:7829:428:1:C00000:0:0:0:
+#SERVICE 1:0:1:7822:428:1:C0AAB7:0:0:0:
+#SERVICE 1:0:1:7824:428:1:C00000:0:0:0:
+#SERVICE 1:0:1:782C:428:1:C0AAB7:0:0:0:
+#SERVICE 1:0:1:782F:428:1:C0AAB8:0:0:0:
+#SERVICE 1:0:1:7820:428:1:C0AAB8:0:0:0:
+#SERVICE 1:0:1:7821:428:1:C00000:0:0:0:
+#SERVICE 1:0:1:782B:428:1:C0AAB8:0:0:0:
+#SERVICE 1:0:1:7798:424:1:C0AA7C:0:0:0:
+#SERVICE 1:0:1:7882:414:1:C0AB76:0:0:0:
+#SERVICE 1:0:1:788C:414:1:C0AB76:0:0:0:
+#SERVICE 1:0:1:7894:414:1:C0AB76:0:0:0:
+#SERVICE 1:0:1:7884:414:1:C0AB76:0:0:0:
+#SERVICE 1:0:1:788D:414:1:C0AB76:0:0:0:
 #SERVICE 4097:0:1:76CC:40E:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1658038440:tdp HD
 #DESCRIPTION tdp HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/966492140:Esport3
