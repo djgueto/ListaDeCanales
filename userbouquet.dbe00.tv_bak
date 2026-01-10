@@ -1,50 +1,52 @@
-#NAME Movistar+ 12 DICIEMBRE 2025
+#NAME M+ 10 ENERO SAT
 #SERVICE 1:0:1:759C:422:1:C00000:0:0:0:
 #SERVICE 1:64:1:0:0:0:0:0:0:0::---------- Autonomicos ----------
 #DESCRIPTION ---------- Autonomicos ----------
-#SERVICE 4097:0:1:76C2:40E:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/993692904:La 1 HD
+#SERVICE 4097:0:1:76C2:40E:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/389183636:La 1 HD
 #DESCRIPTION La 1 HD
-#SERVICE 4097:0:1:7474:3F0:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1052571318:La 2 HD
+#SERVICE 4097:0:1:7474:3F0:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1215276179:La 2 HD
 #DESCRIPTION La 2 HD
-#SERVICE 4097:0:1:7792:424:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1694381337:Cuatro HD
+#SERVICE 4097:0:1:7792:424:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1196174575:Cuatro HD
 #DESCRIPTION Cuatro HD
-#SERVICE 4097:0:1:778C:424:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/454034156:Telecinco HD
+#SERVICE 4097:0:1:778C:424:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1490110505:Telecinco HD
 #DESCRIPTION Telecinco HD
-#SERVICE 4097:0:1:772C:416:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/699941490:Antena 3
+#SERVICE 4097:0:1:772C:416:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1913568097:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 4097:0:19:65:12:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2121773179:A3series
+#SERVICE 4097:0:19:65:12:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1205355334:A3series
 #DESCRIPTION A3series
-#SERVICE 4097:0:1:769E:41E:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2135808945:laSexta
+#SERVICE 4097:0:1:769E:41E:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1228623173:laSexta
 #DESCRIPTION laSexta
-#SERVICE 4097:0:1:7469:3F0:1:C0AC36:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/307289808:nova
+#SERVICE 4097:0:1:7469:3F0:1:C0AC36:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/444229400:nova
 #DESCRIPTION nova
-#SERVICE 4097:0:1:7587:412:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/560031344:neox
+#SERVICE 4097:0:1:7587:412:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/337163154:neox
 #DESCRIPTION neox
-#SERVICE 4097:0:1:788B:414:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2076817846:Divinity
+#SERVICE 4097:0:1:788B:414:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/209386670:Divinity
 #DESCRIPTION Divinity
-#SERVICE 4097:0:1:7889:414:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2041333856:Energy
+#SERVICE 4097:0:1:7889:414:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/154709730:Energy
 #DESCRIPTION Energy
-#SERVICE 4097:0:1F:2C2A:3F6:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2082270851:DKISS
+#SERVICE 4097:0:1F:2C2A:3F6:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1569341297:DKISS
 #DESCRIPTION DKISS
-#SERVICE 4097:0:19:115:E:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1576495013:Dmax
+#SERVICE 4097:0:19:115:E:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1865745869:Dmax
 #DESCRIPTION Dmax
-#SERVICE 4097:0:19:BC:10:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1940027450:FDF
+#SERVICE 4097:0:19:BC:10:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1026899641:FDF
 #DESCRIPTION FDF
-#SERVICE 4097:0:19:9B:11:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1892896293:MEGA
+#SERVICE 4097:0:19:9B:11:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/701381628:MEGA
 #DESCRIPTION MEGA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2074729989:IB3 Global
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1714226470:IB3 Global
 #DESCRIPTION IB3 Global
-#SERVICE 4097:0:1:5908:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1636587784:SQUIRREL
+#SERVICE 4097:0:1:5908:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1520188960:SQUIRREL
 #DESCRIPTION SQUIRREL
-#SERVICE 4097:0:19:326:65:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/830020320:SX3/33
+#SERVICE 4097:0:1:5908:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/324664824:SQUIRREL 2
+#DESCRIPTION SQUIRREL 2
+#SERVICE 4097:0:19:326:65:22D4:EEEE0000:0:0:0:http%3a//ENKAR%3aENKAR@172.0.1.113%3a9981/stream/channelid/554736304:SX3/33
 #DESCRIPTION SX3/33
-#SERVICE 4097:0:19:68:12:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/822669523:TEN
+#SERVICE 4097:0:19:68:12:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1071308964:TEN
 #DESCRIPTION TEN
-#SERVICE 4097:0:19:AA:11:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1625758199:TRECE
+#SERVICE 4097:0:19:AA:11:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/211494219:TRECE
 #DESCRIPTION TRECE
-#SERVICE 4097:0:19:32D:65:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/491778719:TV3
+#SERVICE 4097:0:19:32D:65:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1090125156:TV3
 #DESCRIPTION TV3
-#SERVICE 4097:0:19:7B5C:4E6E:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/856731278:VEO 7
+#SERVICE 4097:0:19:7B5C:4E6E:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/830628036:VEO 7
 #DESCRIPTION VEO 7
 #SERVICE 1:0:19:7A49:410:1:C00000:0:0:0:
 #SERVICE 1:0:1:7473:3F0:1:C00000:0:0:0:
