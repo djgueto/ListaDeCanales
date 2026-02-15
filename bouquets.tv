@@ -1,7 +1,7 @@
-#NAME User - bouquets (TV)
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe00.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.movistar__12_diciembre_2025_iptv.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.tdt__solo_decos_con_tdt_.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.LastScanned.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.favourites.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.nueva.tv
+#NAME User - Bouquets (TV)
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.dbe00.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.movistar__12_diciembre_2025_iptv.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.tdt__solo_decos_con_tdt_.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.LastScanned.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.favourites.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.nueva.tv" ORDER BY bouquet
