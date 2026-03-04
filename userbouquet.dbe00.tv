@@ -131,11 +131,11 @@
 #SERVICE 1:0:1:7894:414:1:C0AB76:0:0:0:
 #SERVICE 1:0:1:7884:414:1:C0AB76:0:0:0:
 #SERVICE 1:0:1:788D:414:1:C0AB76:0:0:0:
-#SERVICE 4097:0:1:76CC:40E:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1658038440:tdp HD
+#SERVICE 4097:0:1:1EA:3F0:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1709895568?profile=pass:tdp HD
 #DESCRIPTION tdp HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/966492140:Esport3
+#SERVICE 4097:0:1:328:65:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1931774047?profile=pass:Esport3
 #DESCRIPTION Esport3
-#SERVICE 4097:0:1F:2BCD:40C:1:C00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2116931485:Realmadrid TV HD
+#SERVICE 4097:0:1:67:12:22D4:EEEE0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/682444027?profile=pass:Realmadrid TV HD
 #DESCRIPTION Realmadrid TV HD
 #SERVICE 1:0:19:78C0:3EC:1:C00000:0:0:0:
 #SERVICE 1:0:19:7532:426:1:C00000:0:0:0:
