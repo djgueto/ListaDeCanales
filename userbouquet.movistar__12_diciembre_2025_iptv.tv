@@ -113,7 +113,7 @@
 #DESCRIPTION ---------- Deportes ----------
 #SERVICE 4097:0:1:7508:420:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/765927303?profile=pass:M+ VAMOSHD
 #DESCRIPTION M+ VAMOSHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//172.0.1.113%3a9981/stream/channelid/1442765638?profile=pass:M+ VAMOSHD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1442765638?profile=pass:M+ VAMOSHD
 #DESCRIPTION M+ VAMOSHD
 #SERVICE 4097:0:1:74a8:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1957459574?profile=pass:M+ VAMOS 2 HD
 #DESCRIPTION M+ VAMOS 2 HD
