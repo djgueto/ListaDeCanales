@@ -1,4 +1,4 @@
-#NAME M+ 18 ABRIL IPTV
+#NAME M+ 19 ABRIL IPTV
 #SERVICE 1:64:8:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Autonomicos ----------
 #SERVICE 4097:0:1:1ee:3f0:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/389183636?profile=pass:La 1 HD
@@ -51,8 +51,6 @@
 #DESCRIPTION ARAGON TV INT
 #SERVICE 4097:0:1:7729:416:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/571068628?profile=pass:CANAL SUR A.
 #DESCRIPTION CANAL SUR A.
-#SERVICE 4097:0:1:455:0:0:0:0:0:0:https%3a//crtvg-europa.flumotion.cloud/playlist.m3u8:TVG
-#DESCRIPTION TVG
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8:CANAL EXTREMADURA
 #DESCRIPTION CANAL EXTREMADURA
 #SERVICE 1:64:9:0:0:0:0:0:0:0:
