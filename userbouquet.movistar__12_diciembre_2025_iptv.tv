@@ -49,6 +49,10 @@
 #DESCRIPTION VEO 7
 #SERVICE 4097:0:1:7473:3f0:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/495393573?profile=pass:ARAGON TV INT
 #DESCRIPTION ARAGON TV INT
+#SERVICE 4097:0:1:455:0:0:0:0:0:0:https%3a//crtvg-europa.flumotion.cloud/playlist.m3u8:TVG
+#DESCRIPTION TVG
+#SERVICE 4097:0:1:457:0:0:0:0:0:0:https%3a//crtvg-tvg2.flumotion.cloud/playlist.m3u8:TVG 2
+#DESCRIPTION TVG 2
 #SERVICE 4097:0:1:7729:416:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/571068628?profile=pass:CANAL SUR A.
 #DESCRIPTION CANAL SUR A.
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8:CANAL EXTREMADURA

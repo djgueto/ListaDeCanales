@@ -50,6 +50,10 @@
 #DESCRIPTION VEO 7
 #SERVICE 1:0:19:7a49:410:1:c00000:0:0:0:
 #SERVICE 1:0:1:7473:3f0:1:c00000:0:0:0:
+#SERVICE 4097:0:1:455:0:0:0:0:0:0:https%3a//crtvg-europa.flumotion.cloud/playlist.m3u8:TVG
+#DESCRIPTION TVG
+#SERVICE 4097:0:1:457:0:0:0:0:0:0:https%3a//crtvg-tvg2.flumotion.cloud/playlist.m3u8:TVG 2
+#DESCRIPTION TVG 2
 #SERVICE 1:0:1:7729:416:1:c00000:0:0:0:
 #SERVICE 4097:0:19:7864:4e48:22d4:eeee0000:0:0:0:https%3a//canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8:CANAL EXTREMADURA
 #DESCRIPTION CANAL EXTREMADURA
