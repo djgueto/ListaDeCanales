@@ -119,10 +119,14 @@
 #DESCRIPTION M+ VAMOSHD
 #SERVICE 4097:0:1:74a8:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1957459574?profile=pass:M+ VAMOS 2 HD
 #DESCRIPTION M+ VAMOS 2 HD
-#SERVICE 4097:0:1:7534:426:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/525701631?profile=pass:DAZN LALIGA HD
-#DESCRIPTION DAZN LALIGA HD
-#SERVICE 4097:0:1:749d:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1286145778?profile=pass:DAZN LALIGA 2 HD
-#DESCRIPTION DAZN LALIGA 2 HD
+#SERVICE 4097:0:1:7534:426:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/525701631?profile=pass:DAZN Mundial HD
+#DESCRIPTION DAZN Mundial HD
+#SERVICE 4097:0:1:749d:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1286145778?profile=pass:DAZN Mundial 2 HD
+#DESCRIPTION DAZN Mundial 2 HD
+#SERVICE 4097:0:1:7894:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/673033056?profile=pass:DAZN Mundial 3 SD
+#DESCRIPTION DAZN Mundial 3 SD
+#SERVICE 4097:0:1:7884:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/209936061?profile=pass:DAZN Mundial 4 SD
+#DESCRIPTION DAZN Mundial 4 SD
 #SERVICE 4097:0:1:76a4:41e:1:c0aa24:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/806994273?profile=pass:DAZN 1 HD
 #DESCRIPTION DAZN 1 HD
 #SERVICE 4097:0:1:76a4:41e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/528601756?profile=pass:DAZN 1
@@ -199,10 +203,6 @@
 #DESCRIPTION M+LCAMPEON15
 #SERVICE 4097:0:1:788c:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/38175691?profile=pass:M+LCAMPEON16
 #DESCRIPTION M+LCAMPEON16
-#SERVICE 4097:0:1:7894:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/673033056?profile=pass:M+LCAMPEON17
-#DESCRIPTION M+LCAMPEON17
-#SERVICE 4097:0:1:7884:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/209936061?profile=pass:M+LCAMPEON18
-#DESCRIPTION M+LCAMPEON18
 #SERVICE 4097:0:1:788d:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1620843657?profile=pass:M+LCAMPEON19
 #DESCRIPTION M+LCAMPEON19
 #SERVICE 4097:0:1:1ea:3f0:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1709895568?profile=pass:tdp HD
