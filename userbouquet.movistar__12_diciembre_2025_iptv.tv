@@ -127,6 +127,8 @@
 #DESCRIPTION DAZN Mundial 3 SD
 #SERVICE 4097:0:1:7884:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/209936061?profile=pass:DAZN Mundial 4 SD
 #DESCRIPTION DAZN Mundial 4 SD
+#SERVICE 4097:0:1:750d:420:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/44997690?profile=pass:M+ FANZONE HD
+#DESCRIPTION M+ FANZONE HD
 #SERVICE 4097:0:1:76a4:41e:1:c0aa24:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/806994273?profile=pass:DAZN 1 HD
 #DESCRIPTION DAZN 1 HD
 #SERVICE 4097:0:1:76a4:41e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/528601756?profile=pass:DAZN 1
@@ -155,8 +157,6 @@
 #DESCRIPTION 1“ FEDERACION HD
 #SERVICE 4097:0:1:750f:420:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/157465871?profile=pass:M+ LALIGA HD
 #DESCRIPTION M+ LALIGA HD
-#SERVICE 4097:0:1:750d:420:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/44997690?profile=pass:M+ LALIGA 2 HD
-#DESCRIPTION M+ LALIGA 2 HD
 #SERVICE 4097:0:1:74a3:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1797888706?profile=pass:M+ LALIGA 3 HD
 #DESCRIPTION M+ LALIGA 3 HD
 #SERVICE 4097:0:1:77bd:40a:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1025893762?profile=pass:M+ LALIGA 3
