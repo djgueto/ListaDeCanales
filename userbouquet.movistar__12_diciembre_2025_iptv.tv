@@ -123,8 +123,6 @@
 #DESCRIPTION DAZN LaLiga HD
 #SERVICE 4097:0:1:749d:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1286145778?profile=pass:DAZN LaLiga 2 HD
 #DESCRIPTION DAZN LaLiga 2 HD
-#SERVICE 4097:0:1:76a4:41e:1:c0aa24:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/806994273?profile=pass:DAZN 1 HD
-#DESCRIPTION DAZN 1 HD
 #SERVICE 4097:0:1:76a4:41e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/528601756?profile=pass:DAZN 1
 #DESCRIPTION DAZN 1
 #SERVICE 4097:0:1:772a:416:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/626633442?profile=pass:DAZN 2
@@ -135,8 +133,6 @@
 #DESCRIPTION DAZN 4
 #SERVICE 4097:0:1:7531:426:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1592685311?profile=pass:DAZN F1 HD
 #DESCRIPTION DAZN F1 HD
-#SERVICE 4097:0:1:7569:412:1:c0ab59:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1512983542?profile=pass:DAZN MOTO GP HD
-#DESCRIPTION DAZN MOTO GP HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1709782300?profile=pass:DAZN MOTO GP
 #DESCRIPTION DAZN MOTO GP
 #SERVICE 4097:0:1:7827:428:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1974973231?profile=pass:DAZNBaloncesto
