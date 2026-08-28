@@ -1,4 +1,4 @@
-#NAME M+ 25 AGOSTO  IPTV
+#NAME M+ 28 AGOSTO  IPTV
 #SERVICE 1:64:8:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Autonomicos ----------
 #SERVICE 4097:0:1:1ee:3f0:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/389183636?profile=pass:La 1 HD
@@ -55,7 +55,7 @@
 #DESCRIPTION TVG 2
 #SERVICE 4097:0:1:7729:416:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/571068628?profile=pass:CANAL SUR A.
 #DESCRIPTION CANAL SUR A.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1354413528?profile=pass:CANAL EXTREMADURA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/244091178?profile=pass:CANAL EXTREMADURA
 #DESCRIPTION CANAL EXTREMADURA
 #SERVICE 1:64:9:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Cine ----------
@@ -141,12 +141,6 @@
 #DESCRIPTION DAZNBaloncesto2
 #SERVICE 4097:0:1:7695:41e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/548442243?profile=pass:DAZNBaloncesto3
 #DESCRIPTION DAZNBaloncesto3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1719951845?profile=pass:M+Baloncesto HD
-#DESCRIPTION M+Baloncesto HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/448432760?profile=pass:M+Baloncesto2
-#DESCRIPTION M+Baloncesto2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/709820066?profile=pass:M+Baloncesto3
-#DESCRIPTION M+Baloncesto3
 #SERVICE 4097:0:1:7890:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/239540493?profile=pass:GOL
 #DESCRIPTION GOL
 #SERVICE 4097:0:1:7504:420:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1652397402?profile=pass:1“ FEDERACION HD
