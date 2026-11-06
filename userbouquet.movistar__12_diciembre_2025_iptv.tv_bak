@@ -1,4 +1,4 @@
-#NAME M+ 16 ABRIL IPTV
+#NAME M+ 29 AGOSTO  IPTV
 #SERVICE 1:64:8:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Autonomicos ----------
 #SERVICE 4097:0:1:1ee:3f0:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/389183636?profile=pass:La 1 HD
@@ -49,9 +49,13 @@
 #DESCRIPTION VEO 7
 #SERVICE 4097:0:1:7473:3f0:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/495393573?profile=pass:ARAGON TV INT
 #DESCRIPTION ARAGON TV INT
+#SERVICE 4097:0:1:455:0:0:0:0:0:0:https%3a//crtvg-europa.flumotion.cloud/playlist.m3u8:TVG
+#DESCRIPTION TVG
+#SERVICE 4097:0:1:457:0:0:0:0:0:0:https%3a//crtvg-tvg2.flumotion.cloud/playlist.m3u8:TVG 2
+#DESCRIPTION TVG 2
 #SERVICE 4097:0:1:7729:416:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/571068628?profile=pass:CANAL SUR A.
 #DESCRIPTION CANAL SUR A.
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist.m3u8:CANAL EXTREMADURA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/244091178?profile=pass:CANAL EXTREMADURA
 #DESCRIPTION CANAL EXTREMADURA
 #SERVICE 1:64:9:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Cine ----------
@@ -111,18 +115,14 @@
 #DESCRIPTION BBC TOP GEAR
 #SERVICE 1:64:b:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Deportes ----------
-#SERVICE 4097:0:1:7508:420:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/765927303?profile=pass:M+ VAMOSHD
-#DESCRIPTION M+ VAMOSHD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1442765638?profile=pass:M+ VAMOSHD
+#SERVICE 4097:0:19:7508:420:1:c0aa42:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1442765638?profile=pass:M+ VAMOSHD
 #DESCRIPTION M+ VAMOSHD
 #SERVICE 4097:0:1:74a8:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1957459574?profile=pass:M+ VAMOS 2 HD
 #DESCRIPTION M+ VAMOS 2 HD
-#SERVICE 4097:0:1:7534:426:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/525701631?profile=pass:DAZN LALIGA HD
-#DESCRIPTION DAZN LALIGA HD
-#SERVICE 4097:0:1:749d:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1286145778?profile=pass:DAZN LALIGA 2 HD
-#DESCRIPTION DAZN LALIGA 2 HD
-#SERVICE 4097:0:1:76a4:41e:1:c0aa24:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/806994273?profile=pass:DAZN 1 HD
-#DESCRIPTION DAZN 1 HD
+#SERVICE 4097:0:1:7534:426:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/525701631?profile=pass:DAZN LaLiga HD
+#DESCRIPTION DAZN LaLiga HD
+#SERVICE 4097:0:1:749d:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1286145778?profile=pass:DAZN LaLiga 2 HD
+#DESCRIPTION DAZN LaLiga 2 HD
 #SERVICE 4097:0:1:76a4:41e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/528601756?profile=pass:DAZN 1
 #DESCRIPTION DAZN 1
 #SERVICE 4097:0:1:772a:416:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/626633442?profile=pass:DAZN 2
@@ -133,8 +133,6 @@
 #DESCRIPTION DAZN 4
 #SERVICE 4097:0:1:7531:426:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1592685311?profile=pass:DAZN F1 HD
 #DESCRIPTION DAZN F1 HD
-#SERVICE 4097:0:1:7569:412:1:c0ab59:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1512983542?profile=pass:DAZN MOTO GP HD
-#DESCRIPTION DAZN MOTO GP HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1709782300?profile=pass:DAZN MOTO GP
 #DESCRIPTION DAZN MOTO GP
 #SERVICE 4097:0:1:7827:428:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1974973231?profile=pass:DAZNBaloncesto
@@ -143,6 +141,12 @@
 #DESCRIPTION DAZNBaloncesto2
 #SERVICE 4097:0:1:7695:41e:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/548442243?profile=pass:DAZNBaloncesto3
 #DESCRIPTION DAZNBaloncesto3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1719951845?profile=pass:M+Baloncesto HD
+#DESCRIPTION M+Baloncesto HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/448432760?profile=pass:M+Baloncesto2
+#DESCRIPTION M+Baloncesto2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/709820066?profile=pass:M+Baloncesto3
+#DESCRIPTION M+Baloncesto3
 #SERVICE 4097:0:1:7890:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/239540493?profile=pass:GOL
 #DESCRIPTION GOL
 #SERVICE 4097:0:1:7504:420:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1652397402?profile=pass:1“ FEDERACION HD
@@ -153,12 +157,8 @@
 #DESCRIPTION M+ LALIGA 2 HD
 #SERVICE 4097:0:1:74a3:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1797888706?profile=pass:M+ LALIGA 3 HD
 #DESCRIPTION M+ LALIGA 3 HD
-#SERVICE 4097:0:1:77bd:40a:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1025893762?profile=pass:M+ LALIGA 3
-#DESCRIPTION M+ LALIGA 3
 #SERVICE 4097:0:1:7892:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1095219693?profile=pass:M+ LALIGA 4
 #DESCRIPTION M+ LALIGA 4
-#SERVICE 4097:0:1:7893:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/709820066?profile=pass:M+ LALIGA 5
-#DESCRIPTION M+ LALIGA 5
 #SERVICE 4097:0:1:749b:41c:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/2038534541?profile=pass:LALIGA TV HYPERMOTION HD
 #DESCRIPTION LALIGA TV HYPERMOTION HD
 #SERVICE 4097:0:1:7831:428:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/942866597?profile=pass:LALIGA TV HYPERMOTION 2
@@ -197,10 +197,6 @@
 #DESCRIPTION M+LCAMPEON15
 #SERVICE 4097:0:1:788c:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/38175691?profile=pass:M+LCAMPEON16
 #DESCRIPTION M+LCAMPEON16
-#SERVICE 4097:0:1:7894:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/673033056?profile=pass:M+LCAMPEON17
-#DESCRIPTION M+LCAMPEON17
-#SERVICE 4097:0:1:7884:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/209936061?profile=pass:M+LCAMPEON18
-#DESCRIPTION M+LCAMPEON18
 #SERVICE 4097:0:1:788d:414:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1620843657?profile=pass:M+LCAMPEON19
 #DESCRIPTION M+LCAMPEON19
 #SERVICE 4097:0:1:1ea:3f0:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1709895568?profile=pass:tdp HD
