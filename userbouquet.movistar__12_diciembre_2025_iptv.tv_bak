@@ -1,4 +1,4 @@
-#NAME M+ 29 AGOSTO  IPTV
+#NAME M+ 22 NOVIEMBRE IPTV
 #SERVICE 1:64:8:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Autonomicos ----------
 #SERVICE 4097:0:1:1ee:3f0:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/389183636?profile=pass:La 1 HD
@@ -135,6 +135,8 @@
 #DESCRIPTION DAZN F1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1709782300?profile=pass:DAZN MOTO GP
 #DESCRIPTION DAZN MOTO GP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/974763238?profile=pass:DAZN MOTO GP HD
+#DESCRIPTION DAZN MOTO GP HD
 #SERVICE 4097:0:1:7827:428:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1974973231?profile=pass:DAZNBaloncesto
 #DESCRIPTION DAZNBaloncesto
 #SERVICE 4097:0:1:7568:412:1:c00000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1846095838?profile=pass:DAZNBaloncesto2

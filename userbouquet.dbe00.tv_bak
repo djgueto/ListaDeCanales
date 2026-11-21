@@ -1,4 +1,4 @@
-#NAME M+ 29 AGOSTO SAT
+#NAME M+ 22 NOVIEMBRE SAT
 #SERVICE 1:0:1:759c:422:1:c00000:0:0:0:
 #SERVICE 1:64:0:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Autonomicos ----------
@@ -12,10 +12,10 @@
 #DESCRIPTION Telecinco HD
 #SERVICE 4097:0:1:95:f:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1913568097?profile=pass:Antena 3
 #DESCRIPTION Antena 3
-#SERVICE 4097:0:1:65:12:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1205355334?profile=pass:A3Series
-#DESCRIPTION A3Series
-#SERVICE 4097:0:1:97:f:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1228623173?profile=pass:laSexta
-#DESCRIPTION laSexta
+#SERVICE 4097:0:1:97:f:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1228623173?profile=pass:la Sexta
+#DESCRIPTION la Sexta
+#SERVICE 4097:0:1:65:12:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/1205355334?profile=pass:La Séptima
+#DESCRIPTION La Séptima
 #SERVICE 4097:0:1:9a:f:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/444229400?profile=pass:nova
 #DESCRIPTION nova
 #SERVICE 4097:0:1:99:f:22d4:eeee0000:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/337163154?profile=pass:neox
@@ -101,6 +101,8 @@
 #SERVICE 1:0:1:77c0:40a:1:c00000:0:0:0:
 #SERVICE 1:0:19:7531:426:1:c00000:0:0:0:
 #SERVICE 1:0:1:7569:412:1:c0ab59:0:0:0:
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rafatv%3arafatv@172.0.1.113%3a9981/stream/channelid/974763238?profile=pass:DAZN MOTO GP HD
+#DESCRIPTION DAZN MOTO GP HD
 #SERVICE 1:0:1:7827:428:1:c0aab8:0:0:0:
 #SERVICE 1:0:1:7568:412:1:c0ab59:0:0:0:
 #SERVICE 1:0:1:7695:41e:1:c0aa24:0:0:0:
